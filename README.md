@@ -3,5 +3,5 @@
 Hello! This is my calculator in JS.
 
 There are some pics:
-![Desktop](./pic1.png)
-![Mobile](./pic2.jpg)
+<img src="./pic1.png" alt="Desktop"/>
+<img src="./pic2.jpg" alt="Mobile" width="200px"/>
